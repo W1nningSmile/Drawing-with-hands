@@ -18,7 +18,7 @@ Made for Champlain St-Lambert's 2026 open house and will be presented by Champai
 | Key | Action |
 |-----|--------|
 | Pinching | Draw |
-| `c` | Clears the canvas |
+| `e` | Clears the canvas |
 | `p` | Save a photo as `frame.png` |
 | `q` | Quit |
 
